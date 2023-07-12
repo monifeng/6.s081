@@ -2,6 +2,8 @@
 
 时隔一段时间，终于结束期末周，开始实验二。
 
+[github项目地址](https://github.com/monifeng/6.s081)
+
 ### 01 System call tracing
 
 #### 实验要求
